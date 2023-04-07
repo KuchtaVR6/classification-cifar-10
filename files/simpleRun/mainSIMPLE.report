@@ -1,0 +1,17 @@
+This is a run of the basic model.
+0.32828
+10
+3,3,16,32,96,128,10
+0.001
+0.0001
+16
+1,2.067027922706604,0.23074,0.2616,(saved separately as autosaveAcc26.model)
+2,1.9733524420547486,0.28992,0.29848,(saved separately as autosaveAcc29.model)
+3,1.9455835083007813,0.3062,0.29898,(saved separately as autosaveAcc29.model)
+4,1.9270063835906983,0.32048,0.33962,(saved separately as autosaveAcc33.model)
+5,1.9178485179138183,0.32516,0.31682,(saved separately as autosaveEpo5Acc31.model)
+6,1.9101878705215454,0.32922,0.33242,(saved separately as autosaveAcc33.model)
+7,1.904436804084778,0.33204,0.33036
+8,1.9015473412322998,0.3322,0.3453
+9,1.8968447531890869,0.33564,0.33386
+10,1.893151346130371,0.33732,0.32828,(saved separately as autosaveEpo10.model)

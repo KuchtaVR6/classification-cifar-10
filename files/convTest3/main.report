@@ -1,0 +1,17 @@
+This is a test to see how the number of conv layers in each backbone affects the training.
+0.63124
+10
+3,3,16,32,96,128,10
+0.001
+0.0001
+16
+1,2.1884113341903686,0.2121,0.28516,(saved separately as autosaveAcc28.model)
+2,2.048347212791443,0.29046,0.30322,(saved separately as autosaveAcc30.model)
+3,1.961167414970398,0.34614,0.36362,(saved separately as autosaveAcc36.model)
+4,1.8793239640426636,0.38602,0.40144,(saved separately as autosaveAcc40.model)
+5,1.7029950461769103,0.43744,0.4773,(saved separately as autosaveEpo5Acc47.model)
+6,1.5818228569602966,0.47482,0.50106,(saved separately as autosaveAcc50.model)
+7,1.5307853748321534,0.49448,0.5046,(saved separately as autosaveAcc50.model)
+8,1.4617697111320496,0.52156,0.55028,(saved separately as autosaveAcc55.model)
+9,1.347870088596344,0.5615,0.58946,(saved separately as autosaveAcc58.model)
+10,1.1104038488674164,0.6064,0.63124,(saved separately as autosaveEpo10Acc63.model)

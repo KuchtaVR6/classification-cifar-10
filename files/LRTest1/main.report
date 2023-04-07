@@ -1,0 +1,17 @@
+This is a test for the selection of learning rate.
+0.56972
+10
+1,3,16,32,96,128,10
+0.001
+0.0001
+16
+1,2.2774488358688356,0.16148,0.21128,(saved separately as autosaveAcc21.model)
+2,2.0124780977249146,0.2739,0.32592,(saved separately as autosaveAcc32.model)
+3,1.880204259300232,0.34016,0.35784,(saved separately as autosaveAcc35.model)
+4,1.821967502822876,0.36088,0.36578,(saved separately as autosaveAcc36.model)
+5,1.7766798436164857,0.37916,0.38622,(saved separately as autosaveEpo5.model)
+6,1.701645195980072,0.4195,0.452,(saved separately as autosaveAcc45.model)
+7,1.6136488428115845,0.46164,0.47902,(saved separately as autosaveAcc47.model)
+8,1.5491673113632203,0.47676,0.51362,(saved separately as autosaveAcc51.model)
+9,1.410802479133606,0.51002,0.55618,(saved separately as autosaveAcc55.model)
+10,1.2205919416427613,0.57064,0.56972,(saved separately as autosaveEpo10.model)

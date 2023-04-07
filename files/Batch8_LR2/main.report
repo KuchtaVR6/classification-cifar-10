@@ -1,0 +1,17 @@
+This is a test of a smaller batch size (8).
+0.57072
+10
+1,3,16,32,96,128,10
+0.002
+0.0001
+8
+1,2.2774488358688356,0.16148,0.21128,(saved separately as autosaveAcc21.model)
+2,2.127933882961273,0.25624,0.32966,(saved separately as autosaveAcc32.model)
+3,2.0440371897888183,0.30326,0.35264,(saved separately as autosaveAcc35.model)
+4,1.9918222877407075,0.32566,0.37962,(saved separately as autosaveAcc37.model)
+5,1.9615016183948517,0.33608,0.39098,(saved separately as autosaveEpo5.model)
+6,1.8483149917697907,0.3745,0.47592,(saved separately as autosaveAcc47.model)
+7,1.7595431126642227,0.40454,0.46192,(saved separately as autosaveAcc46.model)
+8,1.727184902124405,0.41808,0.49146
+9,1.6801674885940552,0.43626,0.5308,(saved separately as autosaveAcc53.model)
+10,1.57911668510437,0.47128,0.57072,(saved separately as autosaveEpo10Acc57.model)
